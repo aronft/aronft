@@ -15,10 +15,10 @@
 
 ---
 
-<h2 align="left">A Full-Stack developer from Perú.</h2>
+<h2 align="left">A Frontend developer from Perú.</h2>
 
 
-🔭 I'm a Full-Stack developer focused on creating dynamic user experiences with React, TypeScript, CSS, and HTML. I've worked on projects where I utilized tools like Tailwind and Sass to ensure attractive and functional designs. My experience as a Fullstack developer with Angular, Laravel, and SQL Server has provided me with a deep understanding of web architecture and database management.
+🔭 I'm a Frontend developer focused on creating dynamic user experiences with React, TypeScript, CSS, and HTML. I've worked on projects where I utilized tools like Tailwind and Sass to ensure attractive and functional designs. My experience as a Fullstack developer with Angular, Laravel, and SQL Server has provided me with a deep understanding of web architecture and database management.
 
 
 ### 🛠 &nbsp;Tech Stack
